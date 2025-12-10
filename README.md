@@ -1,4 +1,4 @@
-# Hi, I'm Phạm Đăng Khoa 👋 https://i.imgur.com/example_python_logo_animated.gif
+# Hi, I'm Phạm Đăng Khoa 👋 
 
 - 🎓 Tôi là sinh viên uth.
 - 💡 Hiện tại tôi đang tập trung vào Python.
